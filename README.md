@@ -12,13 +12,24 @@ I am a person who is willing to challenge. When my parents asked me to choose my
 I come from a three-generation family, and the members include grandparents, parents, younger brother, sister and me. Our family has a close relationship, cross-generational inheritance, growth and mutual support and care. Growing up in such an environment since I was a child, I have had good interpersonal skills, and also learned to divide the work and cooperate, and understand everyone's needs and opinions to listen and communicate.
 ---
 
-## 🧠 Skills & Certification
+## 🧠 Skills & Certification & Experience
 
 - 💻 Excel、Word、PowerPoint、Canva and Python  
 - 📜 TQC Python 3 Certificate
+- 🏷️ NTNU Tech Camp Counselor (2024)
+---
+
+## 🌐 Connect with Me
+
+- ✉️ Email: wuyuan187@gmail.com
+-📍 Based in: Taipei, Taiwan
 
 ---
 
+## 📁 Project Links
+
+
+---
 ## ✨ Personal Traits
 
 I thrive on challenges and believe in not choosing comfort during the most critical time of youth.  
@@ -44,8 +55,11 @@ My positive learning attitude allowed me to win the top three in the class many 
 
 During my time in school, I actively participated in various community activities and internships. In addition to being able to quickly integrate into a strange environment, I can also cultivate professional skills and teamwork ability. During my time at the National Defense University, I cultivated a solid technical foundation, discipline and stress resistance in the government school, so that I could stay calm in a high-pressure environment and quickly adapt to challenges. After class, I also participated in the baseball team of the National Defense University as a fielder guard and was responsible for guarding the vast defensive range and providing firepower attacks with fast-moving pace. Click to support.
 
-In terms of the Normal University club, I chose to join the tennis club, which can not only exercise muscles and joints, but also train the body's control and concentration. It is worth mentioning that this year, my classmates and I volunteered to sacrifice the winter vacation activities of the University of the Science and Technology Camp. During the preparation period, everyone brainstormed after school and holidays in order to More high school students learn about the courses in the Department of Science and Technology of Normal University. As an assistant to guide the team, I not only strengthen my expression ability, but also learn how to effectively guide the team to complete tasks through interaction with students, teamwork, activity organization and communication and coordination.
+In terms of the Normal University club, I chose to join the tennis club, which can not only exercise muscles and joints, but also train the body's control and concentration. It is worth mentioning that this year, my classmates and I volunteered to sacrifice the winter vacation activities of the University of the Science and Technology Camp. During the preparation period, everyone brainstormed after school and holidays in order to More high school students learn about the courses in the Department of Science and Technology of Normal University. **As an assistant to guide the team, I not only strengthen my expression ability, but also learn how to effectively guide the team to complete tasks through interaction with students, teamwork, activity organization and communication and coordination.**
 
-## 🌐 Contact Me
+---
 
-- ✉️ Email: wuyuan187@gmail.com
+
+
+
+  
