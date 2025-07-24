@@ -28,6 +28,14 @@ I come from a three-generation family, and the members include grandparents, par
 
 ## 📁 Project Links
 
+- 🎮 [建立新的 Unity 專案](https://github.com/Morris-Wu/Unity-NTNU)  
+  Developed a Unity project demonstrating interactive 3D features.
+
+- 📝 [自製個人網站](https://morris-wu.github.io/-/)  
+  Created and deployed a personal static site.
+
+- 📊 [自製 CPBL 報表自動化系統](https://github.com/Morris-Wu/Data)  
+  Designed a Python-based automation tool to generate PDF reports of baseball player stats over the years.
 
 ---
 ## ✨ Personal Traits
