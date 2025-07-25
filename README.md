@@ -1,6 +1,6 @@
 # 👋 Hi ! I'm YU-AN WU 吳堉安
 
-🎓 **National Taiwan Normal University**  
+🎓 **National Taiwan Normal University** **國立台灣師範大學** 
 Department of Technology Application and Human Resource Development
 
 ---
@@ -33,7 +33,7 @@ I come from a three-generation family, and the members include grandparents, par
 - 🎮 [建立新的 Unity 專案](https://github.com/Morris-Wu/Unity-NTNU)  
   Developed a Unity project demonstrating interactive 3D features.
 
-- 📝 [自製個人網站](file:///C:/Users/dickw/OneDrive/%E6%A1%8C%E9%9D%A2/NTNU/%E5%A4%A7%E4%BA%8C%E4%B8%8A%E5%AD%B8%E6%9C%9F/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96/Web/Web/index.html)  
+- 📝 [自製個人網站]<img width="1893" height="940" alt="螢幕擷取畫面 2025-07-25 122020" src="https://github.com/user-attachments/assets/83009ed7-4517-4d0b-b20d-b34ad089fe81" />  
   Created and deployed a personal static site.
 
 - 📊 [自製 CPBL 報表自動化系統](https://github.com/Morris-Wu/Data)  
