@@ -38,6 +38,7 @@ I come from a three-generation family, and the members include grandparents, par
   Designed a Python-based automation tool to generate PDF reports of baseball player stats over the years.
 
 - 📝 [自製個人網站_封面圖](https://github.com/Morris-Wu/YU-AN-WU/blob/main/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99%E5%B0%81%E9%9D%A2.png)
+  
   Created and deployed a personal static site.
 
 ---
