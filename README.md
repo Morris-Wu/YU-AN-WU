@@ -34,21 +34,19 @@ I come from a three-generation family, and the members include grandparents, par
 - 🎮 [建立新的 Unity 專案](https://github.com/Morris-Wu/Unity-NTNU)  
   Developed a Unity project demonstrating interactive 3D features.
 
+  - 📊 [自製 CPBL 報表自動化系統](https://github.com/Morris-Wu/Data)  
+  Designed a Python-based automation tool to generate PDF reports of baseball player stats over the years.
+
 - 📝 [自製個人網站]<img width="1893" height="940" alt="螢幕擷取畫面 2025-07-25 122020" src="https://github.com/user-attachments/assets/83009ed7-4517-4d0b-b20d-b34ad089fe81" />  
   Created and deployed a personal static site.
 
-- 📊 [自製 CPBL 報表自動化系統](https://github.com/Morris-Wu/Data)  
-  Designed a Python-based automation tool to generate PDF reports of baseball player stats over the years.
-
 ---
+
 ## ✨ Personal Traits
 
-I thrive on challenges and believe in not choosing comfort during the most critical time of youth.  
-This mindset led me to participate in a rigorous academic collaboration between **National Yang Ming Chiao Tung University** and the **National Defense University**, where I honed my problem-solving skills and the ability to work effectively in high-pressure teams.  
-I excel at analyzing problems and finding solutions quickly to achieve objectives under tight deadlines.
+I thrive on challenges and believe in not choosing comfort during the most critical time of youth.This mindset led me to participate in a rigorous academic collaboration between **National Yang Ming Chiao Tung University** and the **National Defense University**, where I honed my problem-solving skills and the ability to work effectively in high-pressure teams.I excel at analyzing problems and finding solutions quickly to achieve objectives under tight deadlines.
 
-Growing up in a three-generation household — including my grandparents, parents, younger brother, sister, and myself — I developed strong interpersonal and communication skills.  
-This family environment nurtured my ability to empathize with others, work collaboratively, and respect different viewpoints, making me an excellent team player who values cooperation and harmony.
+Growing up in a three-generation household — including my grandparents, parents, younger brother, sister, and myself — I developed strong interpersonal and communication skills.This family environment nurtured my ability to empathize with others, work collaboratively, and respect different viewpoints, making me an excellent team player who values cooperation and harmony.
 
 ---
 
