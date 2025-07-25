@@ -7,9 +7,11 @@ Department of Technology Application and Human Resource Development
 
 ## 💡 About Me
 
-I am a person who is willing to challenge. When my parents asked me to choose my college career freely, I made the decision of "don't choose comfort at the age when I should strive" and devoted myself to the educational cooperation plan between Yangming Jiaotong University and the Institute of Technology of National Defense University. I also learned the spirit of teamwork in various tasks and was good at analyzing in the face of difficulties. Problems and quickly find solutions to ensure the smooth achievement of the chief's goals.
+I am a person who is willing to challenge. When my parents asked me to choose my college career freely, I made the decision of  **"don't choose comfort at the age when I should strive"** and devoted myself to the educational cooperation plan between Yangming Jiaotong University and the Institute of Technology of National Defense University. I also learned the spirit of teamwork in various tasks and was good at analyzing in the face of difficulties. Problems and quickly find solutions to ensure the smooth achievement of the chief's goals.
 
 I come from a three-generation family, and the members include grandparents, parents, younger brother, sister and me. Our family has a close relationship, cross-generational inheritance, growth and mutual support and care. Growing up in such an environment since I was a child, I have had good interpersonal skills, and also learned to divide the work and cooperate, and understand everyone's needs and opinions to listen and communicate.
+
+
 ---
 
 ## 🧠 Skills & Certification & Experience
